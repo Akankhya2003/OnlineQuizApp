@@ -36,4 +36,4 @@ An interactive **Online Quiz Web Application** built using **Java Servlets, JSP,
 5. Run SQL scripts to create tables and sequences.
 
 6. Access the project through its name.
-   http://localhost:9090/<project_name>
+   http://localhost:9090/OnlineQuizApp
